@@ -1,0 +1,2 @@
+python3 SourceValues.py
+python3 TransferLearningAndSemiSupervised.py
